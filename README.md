@@ -29,6 +29,7 @@ This project is a static website designed to showcase the funny and adorable cat
 # Credits
 Developed by Vaishnavi. 
 
-GitHub : @Vysh0d
+GitHub : [vaishnavi](https://github.com/vysh0d)
 
+LinkedIn : [Vaishnavi Dupparaju](https://www.linkedin.com/in/vaishnavi-dupparaju-851903339/)
 
